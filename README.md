@@ -18,3 +18,4 @@ Testing steps:
 
 * Inside the web client, click the `Create Order` button
 * Observe an order card populate in both tabs. If this does not happen, something is wrong.
+* Observe the order id show up in your console for the socket.io server

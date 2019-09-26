@@ -1,0 +1,17 @@
+# ignore node_modules directory
+node_modules/
+
+# ignore test coverage directory
+coverage/
+
+DS_Store
+.vscode
+.log
+src/**/*.css
+dist
+
+# api folder
+api/.eslintrc.js
+
+# .idea folder
+.idea/
