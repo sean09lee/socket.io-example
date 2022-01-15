@@ -32,7 +32,7 @@
     "pg": "7.4.1",
     "pug": "^2.0.1",
     "sequelize": "^4.43.0",
-    "shelljs": "0.7.8",
+    "shelljs": "0.8.5",
     "socket.io": "^2.2.0",
     "socket.io-emitter": "^3.1.1",
     "socket.io-redis": "^5.2.0",
